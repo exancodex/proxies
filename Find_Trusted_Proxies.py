@@ -1,8 +1,6 @@
 ############################################################################
 #
 #   Find_Trusted_Proxies.py
-#   © 2021 ABDULKADİR GÜNGÖR All Rights Reserved
-#   Contact email address: abdulkadir_gungor@outlook.com
 #
 #	Developper:Exancodex
 #	All Rights Reserved (Tüm Hakları Saklıdır)
